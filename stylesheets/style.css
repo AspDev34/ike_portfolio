@@ -1,0 +1,67 @@
+
+body {
+    background-color: #a58993;
+}
+
+.container{
+    margin: 20px;
+}
+
+.medium{
+    height:400px; 
+    padding-left: 0px;
+}
+
+#header_name{
+    display: inline-block;
+    width: 49%;
+    font-size: large;
+    font-family: Impact;
+    color: black;
+    background-color: whitesmoke;
+}
+
+#tag_line{
+    display: inline-block;
+    width: 49%;
+    font-size: large;
+    font-family: Impact;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.main-message-text{
+    margin: auto;
+}
+
+.about{
+    position: relative;
+    left: 271px;
+    bottom: 416px;
+    width: 1020px;
+    height: 393px;
+    background-color: whitesmoke;
+}
+
+*{
+    outline-style: dotted;
+}
+
+#Contact{
+    background-color: red;
+}
+
+#Resume{
+    background-color: yellow;
+}
+
+#References{
+    background-color: greenyellow;
+}
+
+.boxes{
+    float: left;
+    height: 400px;
+    width: 20%;
+    margin-left: 10%;
+}
